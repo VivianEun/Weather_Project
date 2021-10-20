@@ -36,3 +36,10 @@
 #celsius-link {
   text-decoration: none;
 }
+
+#github {
+  display: block;
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
+}
