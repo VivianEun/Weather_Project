@@ -1,0 +1,38 @@
+.sun-icon,
+.sun-rain-icon,
+.showers-icon,
+.cloudy-icon {
+  font-size: 50px;
+  text-align: center;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.day-title {
+  text-align: center;
+  font-size: 30px;
+}
+
+.weekly-temp {
+  text-align: center;
+  font-size: 20px;
+}
+
+.temperature {
+  font-size: 50px;
+  font-weight: 500;
+}
+
+.units {
+  position: relative;
+  top: -25px;
+}
+
+#location-display {
+  text-transform: capitalize;
+}
+
+#fahrenheit-link,
+#celsius-link {
+  text-decoration: none;
+}
